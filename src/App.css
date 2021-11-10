@@ -15,3 +15,12 @@
 .App-link {
   color: #61dafb;
 }
+
+.pokeImg{
+  margin-top: 10px;
+}
+
+.countdown{
+  font-size: 50px;
+  margin-top: 0px;
+}
